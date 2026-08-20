@@ -16,15 +16,15 @@
 
 <br><br>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/GaganKang7600">
 <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=FFFFFF" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://www.linkdin.com/in/gagankang">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" />
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:gagankang2005@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=FFFFFF" />
 </a>
 
